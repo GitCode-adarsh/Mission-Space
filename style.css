@@ -1,0 +1,10 @@
+.left_div{
+    background-color: black;
+    color: white;
+    width: 50%;
+    float: left;
+}
+.right_div{
+    width: 50%;
+    float: right;
+}
